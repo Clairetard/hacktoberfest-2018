@@ -443,6 +443,11 @@
 - Bio: Computer Science Undergraduate
 - Github: [Domenick97](https://github.com/Domenick97)
 
+#### Name: [Seow Xuan Yi] (https://github.com/saltedfishxx)
+- Place: Singapore
+- Bio: Information Technology Student
+- Github: [saltedfishxx](https://github.com/saltedfishxx)
+
 #### Name: Wanjiru Catherine
 - Bio: Computer Science Student | Android developer| AI enthusiast
 - Github: [kateshiru](github.com/kateshiru)
